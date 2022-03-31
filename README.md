@@ -32,7 +32,7 @@ Thanks so much for reaching out. I'm always interested in hearing about what new
 
 It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
 
-I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
+I would love to continue the conversation, but before I do, I'd like to know more about the level of seniority that you're looking for. 
 
 Can you send along the total compensation details for the role? 
 
