@@ -5,7 +5,7 @@ This is licensed under MIT so please feel free to fork and use as you'd like.
 
 If you like it, please consider leaving a github star.  I think that it would be super cool to see how many people this helps.
 
-## the autoresponse
+## the autoresponse asking for details
 
 ```
 Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer, I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn or by email. It is a wonderful position of privilege to be in, and I'm thankful for it.
@@ -44,8 +44,16 @@ Thanks again for reaching out!
 I look forward to hearing from you
 ```
 
+## the autoresponse not interested (after asking for salary, with no response back)
 
-## the autoresponse not interested
+```
+As I mentioned in my previous message, I am being forced to reject the offer since essential details are missing.
+
+If the company finally decides to disclose all information regarding this offer, including salary, I recommend you try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org.
+
+Thanks again for reaching out!
+
+## the autoresponse not interested (offers including salary and details)
 
 ```
 Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer, I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn or by email. It is a wonderful position of privilege to be in, and I'm thankful for it.
