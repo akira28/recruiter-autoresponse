@@ -52,6 +52,7 @@ As I mentioned in my previous message, I am being forced to reject the offer sin
 If the company finally decides to disclose all information regarding this offer, including salary, I recommend you try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org.
 
 Thanks again for reaching out!
+```
 
 ## the autoresponse not interested (offers including salary and details)
 
