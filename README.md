@@ -14,7 +14,7 @@ It does however mean that I don't have the time to hop on a call with everyone w
 
 I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
 
-Can you send along the company name, a job description, remote info and total compensation details for the role? 
+Can you send along a job description, remote info, interview process and total compensation details for the role? 
 
 While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
 
