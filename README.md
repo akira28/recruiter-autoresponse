@@ -12,7 +12,7 @@ Thanks so much for reaching out. I'm always interested in hearing about what new
 
 It does, however, mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
 
-I would love to continue the conversation, but before I do, I'd like to know more about the level of seniority that you're looking for
+I would love to continue the conversation, but before I do, I'd like to know more about the level of seniority that you're looking for.
 
 Additionally, could you please provide the company name, job description, remote work information, details about the interview process, and total compensation for the role?
 
@@ -32,7 +32,7 @@ Thanks so much for reaching out. I'm always interested in hearing about what new
 
 It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
 
-I would love to continue the conversation, but before I do, I'd like to know more about the level of seniority that you're looking for. 
+I would love to continue the conversation, but before I do, I'd like to know more about the level of seniority that you're looking for.
 
 Additionally, could you please provide details about the interview process, and total compensation for the role?
 
@@ -41,7 +41,7 @@ While I very much appreciate the fact that exceptionally talented and engaged re
 In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
 Thanks again for reaching out!
  
-I look forward to hearing from you
+I look forward to hearing from you.
 ```
 
 ## the autoresponse not interested (after asking for salary, with no response back)
