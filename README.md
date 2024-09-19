@@ -49,7 +49,7 @@ I look forward to hearing from you.
 ```
 As I mentioned in my previous message, I am being forced to reject the offer since essential details are missing.
 
-If the company finally decides to disclose all information regarding this offer, including salary, I recommend you try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org.
+If the company finally decides to disclose all information regarding this offer, including salary, I recommend you try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org .
 
 Thanks again for reaching out!
 ```
@@ -63,7 +63,7 @@ I very much appreciate the fact that you already disclosed the salary and other 
 
 But unfortunately, I’m not interested in the proposed position at the moment.
 
-I recommend you try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org.
+I recommend you try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org .
 
 Thanks again for reaching out!
 ```
@@ -75,7 +75,7 @@ I very much appreciate the fact that you sent the requested details.
 
 But unfortunately, I’m not interested in the proposed position at the moment.
 
-I recommend you try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org.
+I recommend you try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org .
 
 Thanks again for reaching out!
 ```
